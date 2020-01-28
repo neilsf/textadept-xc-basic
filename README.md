@@ -11,7 +11,7 @@ Features:
 
 ## Installation
 
-1. Copy all files of this repository to _~/.textadept/_ (Linux and MAC OS) or _%userprofile%\\.textadept\\_ (Windows). If the directory does not exist, create it.
+1. Copy _lexers/xcbasic.lua_ to _~/.textadept/lexers/_ (Linux and MAC OS) or _%userprofile%\\.textadept\\lexers\\_ (Windows). If the directory does not exist, create it.
 2. Open the file _~/.textadept/init.lua_ (Linux and MAC OS) or _%userprofile%\\.textadept\\init.lua_ (Windows). If it does not exist, create it.
 3. Add the following lines:
 
