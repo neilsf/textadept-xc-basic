@@ -17,7 +17,7 @@ lex:add_rule('keyword', token(lexer.KEYWORD, word_match([[
     or  load  save  doke atn  asm  strcpy  strncpy  curpos
     strpos  wait  watch  pragma  memset  memcpy  memshift
     while  endwhile  repeat  until  disableirq  enableirq  fun endfun step
-    fast include else
+    fast include else on
 ]], true)))
 
 -- Functions.
