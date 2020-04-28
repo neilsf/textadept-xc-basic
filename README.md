@@ -17,7 +17,7 @@ Features:
 
         textadept.file_types.extensions.bas = 'xcbasic'
         textadept.run.run_commands.xcbasic = 'path/to/vice-emu/x64 "%e.prg"'
-        textadept.run.compile_commands.xcbasic = '/path/to/xc-basic/xcbasic64U "%f" "%e.prg"'
+        textadept.run.compile_commands.xcbasic = '/path/to/xc-basic/xcbasic64 "%f" "%e.prg"'
 
 ## Usage
 
